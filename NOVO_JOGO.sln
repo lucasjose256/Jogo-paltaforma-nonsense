@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NOVO_JOGO", "NOVO_JOGO.vcxproj", "{47A26E62-4370-4942-B602-5C80E0134545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A26E62-4370-4942-B602-5C80E0134545}.Debug|x64.ActiveCfg = Debug|x64
+		{47A26E62-4370-4942-B602-5C80E0134545}.Debug|x64.Build.0 = Debug|x64
+		{47A26E62-4370-4942-B602-5C80E0134545}.Debug|x86.ActiveCfg = Debug|Win32
+		{47A26E62-4370-4942-B602-5C80E0134545}.Debug|x86.Build.0 = Debug|Win32
+		{47A26E62-4370-4942-B602-5C80E0134545}.Release|x64.ActiveCfg = Release|x64
+		{47A26E62-4370-4942-B602-5C80E0134545}.Release|x64.Build.0 = Release|x64
+		{47A26E62-4370-4942-B602-5C80E0134545}.Release|x86.ActiveCfg = Release|Win32
+		{47A26E62-4370-4942-B602-5C80E0134545}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D28104-80E3-45FB-8276-1BD1EAAABB7D}
+	EndGlobalSection
+EndGlobal
